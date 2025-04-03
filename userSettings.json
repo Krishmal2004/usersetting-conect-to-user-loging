@@ -1,0 +1,75 @@
+[
+  {
+    "username": "IT24102083",
+    "password": "securePassword123",
+    "firstName": "",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+94 70 219 5755",
+    "bio": "Experienced real estate agent specializing in luxury properties and international investments. Over 10 years in the industry with a proven track record of successful transactions.",
+    "jobTitle": "Senior Real Estate Agent",
+    "licenseNumber": "REA-2025-37891",
+    "experience": "6-10",
+    "specialization": "luxury",
+    "avatarPath": "/assets/avatars/IT24102083_default.jpg",
+    "notifications": {
+      "emailInquiries": true,
+      "emailPropertyUpdates": true,
+      "emailNewsletter": false,
+      "smsUrgentInquiries": true,
+      "smsAppointments": true
+    },
+    "appearance": {
+      "language": "en",
+      "timezone": "Asia/Colombo",
+      "dateFormat": "DD/MM/YYYY",
+      "currency": "LKR",
+      "theme": "dark",
+      "accentColor": "blue",
+      "density": "default"
+    },
+    "listings": {
+      "defaultPropertyType": "residential",
+      "displayCurrency": "LKR",
+      "unitSystem": "metric",
+      "defaultRadius": "5",
+      "fields": {
+        "price": true,
+        "size": true,
+        "bedrooms": true,
+        "bathrooms": true,
+        "garage": true,
+        "yearBuilt": true,
+        "pool": false,
+        "aircon": false,
+        "garden": false,
+        "security": false
+      }
+    },
+    "lastUpdated": "2025-04-03 17:37:37",
+    "fullName": " Doe"
+  },
+  {
+    "firstName": "Krishmal",
+    "password": "123",
+    "phone": "741852",
+    "registrationDate": "2025-03-24 23:43:13",
+    "userType": "buyer",
+    "username": "dinidu@gmail.com"
+  },
+  {
+    "username": "john.doe@example.com",
+    "createdAt": "2025-03-24 23:49:22",
+    "lastUpdated": "2025-03-24 23:49:22",
+    "firstName": "hiiiiiiiiiiiiiiiiiiiiiiiii",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+94 70 123 4567",
+    "bio": "Experienced real estate agent specializing in luxury properties and international investments. Over 10 years in the industry with a proven track record of successful transactions.",
+    "jobTitle": "Senior Real Estate Agent",
+    "licenseNumber": "REA-2025-37891",
+    "experience": "6-10",
+    "specialization": "luxury",
+    "fullName": "hiiiiiiiiiiiiiiiiiiiiiiiii Doe"
+  }
+]

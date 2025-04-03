@@ -1,0 +1,124 @@
+[
+  {
+    "username": "user@gmail.com",
+    "password": "admin1234"
+  },
+  {
+    "username": "manager1@gmail.com",
+    "password": "manager1234"
+  },
+  {
+    "firstName": "kri"
+  },
+  {
+    "firstName": "krishmal",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-20 18:25:03",
+    "userType": "buyer",
+    "username": "krihsmak@gmail.com"
+  },
+  {
+    "firstName": "ometh",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-20 19:09:31",
+    "userType": "buyer",
+    "username": "ometh@gmail.com"
+  },
+  {
+    "firstName": "saviru",
+    "password": "saviru123",
+    "phone": "071789654",
+    "registrationDate": "2025-03-20 19:12:31",
+    "userType": "buyer",
+    "username": "saviru@gmail.com"
+  },
+  {
+    "firstName": "ometh",
+    "password": "54as66df",
+    "phone": "07145632",
+    "registrationDate": "2025-03-20 20:07:46",
+    "userType": "buyer",
+    "username": "ometh1@gmail.com"
+  },
+  {
+    "firstName": "methuli",
+    "password": "methuli",
+    "phone": "07414486511",
+    "registrationDate": "2025-03-21 01:06:56",
+    "userType": "buyer",
+    "username": "methuli@gmail.com"
+  },
+  {
+    "firstName": "Hello",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-21 21:36:48",
+    "userType": "buyer",
+    "username": "kri3232@gmail.com"
+  },
+  {
+    "firstName": "Krishmal",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-22 23:57:30",
+    "userType": "buyer",
+    "username": "Krish@gmail.com"
+  },
+  {
+    "username": "IT24102083",
+    "createdAt": "2025-03-24 22:56:15",
+    "lastUpdated": "2025-03-24 22:56:15",
+    "firstName": "Krishmal",
+    "lastName": "Dinidu",
+    "email": "john.doe@example.com",
+    "phone": "+94 70 123 4567",
+    "bio": "Experienced real estate agent specializing in luxury properties and international investments. Over 10 years in the industry with a proven track record of successful transactions.",
+    "jobTitle": "Senior Real Estate Agent",
+    "licenseNumber": "REA-2025-37891",
+    "experience": "6-10",
+    "specialization": "luxury",
+    "fullName": "Krishmal Dinidu"
+  },
+  {
+    "firstName": "Krishmal",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-24 23:01:19",
+    "userType": "buyer",
+    "username": "krishmaljaniya@gmail.com"
+  },
+  {
+    "firstName": "Saviru",
+    "password": "kala",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-24 23:38:04",
+    "userType": "buyer",
+    "username": "SaviruKala@gmail.com"
+  },
+  {
+    "firstName": "kala",
+    "password": "123",
+    "phone": "789456123",
+    "registrationDate": "2025-03-24 23:41:08",
+    "userType": "buyer",
+    "username": "saviru@gmail.com"
+  },
+  {
+    "firstName": "sajan",
+    "password": "54as66df",
+    "phone": "0714486511",
+    "registrationDate": "2025-03-25 15:06:54",
+    "userType": "buyer",
+    "username": "sajan@gmailcom"
+  },
+  {
+    "firstName": "krishmal",
+    "password": "123",
+    "phone": "123456",
+    "registrationDate": "2025-03-25 16:38:59",
+    "userType": "buyer",
+    "username": "krishmal@gmail.com"
+  }
+]
